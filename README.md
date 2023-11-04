@@ -9,28 +9,29 @@
 
 <br />
 
+
 ## 📫 How to reach me:
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="" target="_blank">
-    <img src=""/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100064485528518)](https://www.facebook.com/profile.php?id=100064485528518" alt="Facebook">
-    <img src="https://scontent.fsgn7-1.fna.fbcdn.net/v/t39.30808-6/348547467_1668161566977431_2957371414336994363_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dFrDVc_09rUAX8k_8_2&_nc_ht=scontent.fsgn7-1.fna&oh=00_AfB2fkoMFXmkdzppLODSfmStB1gDlvzgWnInRcycW9MZIw&oe=654B2B79" target="_blank" />
+  <a href="https://www.facebook.com/profile.php?id=100064485528518" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/VinhAlth" alt="Github">
+  <a href="https://github.com/VinhAlth/VinhAlth" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
-    <img src=""/>
+  <a href=" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" target="_blank" >
+  <a href="" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
   <a href="mailto:vinh025na@gmail.com" alt="Email">
-    <img src=""/>
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
 
