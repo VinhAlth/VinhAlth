@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ Currently a student at The Saigon International University.[SIU](https://www.facebook.com/dhquoctesaigon).
+- ✍ Currently a student at Saigon International University.[SIU](https://www.facebook.com/dhquoctesaigon).
 
 <br />
 
