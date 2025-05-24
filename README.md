@@ -18,6 +18,12 @@ I am constantly learning and looking to contribute to impactful AI projects, par
 
 ## 🔬 Experience & Projects
 
+### 💼 AI Research Intern @ SIU AILAB (Jun 2024 – Sep 2024)
+- Collaborated on research involving **large language models**, **retrieval-augmented generation (RAG)**, and **AI-powered expert systems**
+- Built experimental pipelines using **LangChain**, **Hugging Face Transformers**, and **Milvus**
+- Conducted experiments with multi-modal retrieval using **CLIP** and open-source datasets
+- Contributed to writing scientific papers for AI competitions and conferences
+
 ### 🧩 Text-Based Scene Retrieval System for AIC2024
 - Developed a large-scale image retrieval system using **CLIP**, **Milvus**, and **semantic search**
 - Finalist in the **AI Challenge 2024** competition
