@@ -51,7 +51,7 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,flask,git,github,vscode,linux" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,fastapi,flask,pytorch,tensorflow,opencv,docker,git,github,vscode,linux,bash,jupyter,postman" alt="Skills" />
   </a>
 </p>
 
