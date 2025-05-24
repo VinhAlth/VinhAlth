@@ -11,7 +11,6 @@
 
 I'm a passionate AI enthusiast with a solid background in **Artificial Intelligence, Machine Learning**, and **Deep Learning**.  
 My interests include **NLP**, **Computer Vision**, **LLM**, **information retrieval**, and **generative AI**
-Driven by curiosity and a desire to build meaningful systems, I enjoy working on projects that serve social needs and enhance user experiences.  
 Always eager to learn and contribute to meaningful AI applications.
 
 ---
