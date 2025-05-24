@@ -17,17 +17,17 @@ Always eager to learn and contribute to meaningful AI applications.
 
 ## 🔬 Experience & Projects
 
-### 💼 AI Research Intern @ SIU AILAB (Jun 2024 – Sep 2024)
+### AI Research Intern @ SIU AILAB (Jun 2024 – Sep 2024)
 • Researched and applied LLMs; designed retrieval pipelines with RAG.  
 • Improved chatbot performance via feedback and experimental evaluation.  
 
-### 🧩 Text-Based Scene Retrieval System for AIC2024
+### Text-Based Scene Retrieval System for AIC2024
 Built a scalable, interactive video retrieval system for a 300-hour news dataset. Utilized SIGLIP, DFN5B, and Qdrant with optimized Shot Boundary Detection and temporal algorithms, achieving 94% accuracy. Deployed a WSGI server for fast retrieval (50ms vector search, 800ms UI delivery) and a user-friendly UI with reranking for enhanced interactivity. Ranked Top 10 in AI Challenge HCMC 2024, with query responses under 15 seconds.  
 
-- Code: [pumpkin-aic2024](https://github.com/VinhAlth/Pumpkin_AIC_2024)  
+- Code: [Pumpkin-aic2024](https://github.com/VinhAlth/Pumpkin_AIC_2024)  
 - Read the paper: [“An Optimized And Interactive Video Event Retrieval System”](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_9) <!-- Replace with actual link -->
 
-### 🤖 Research on LLM-based AI Assistants
+### Research on LLM-based AI Assistants
 
 - Built and evaluated retrieval-augmented generation (RAG) pipelines using **OpenAI**, **LangChain**, and **Hugging Face**
 - Explored applications of LLMs in education and expert systems  
@@ -40,9 +40,9 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 
 ## 🔍 Looking For
 
-- 🤝 Opportunities to **work on real-world AI systems** or **participate in AI research**
-- 🌍 Projects that create value for **society and end-users**
-- 🎯 Mentorship and challenges to deepen my understanding of modern AI
+- Opportunities to **work on real-world AI systems** or **participate in AI research**
+- Projects that create value for **society and end-users**
+- Mentorship and challenges to deepen my understanding of modern AI
 
 ---
 
@@ -75,9 +75,9 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 
 ## 📫 Contact Me
 
-- 📧 Email: [vinhquocnguyen.ai@gmail.com](mailto:vinhquocnguyen.ai@gmail.com)
+- 📧 Email: [vinh025na@gmail.com](mailto:vinh025na@gmail.com)
 - 🌐 GitHub: [VinhAlth](https://github.com/VinhAlth)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) <!-- Replace with actual link -->
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nguyen-quoc-vinh-nqv/) <!-- Replace with actual link -->
 
 ---
 
