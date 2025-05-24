@@ -31,8 +31,8 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 - Built and evaluated retrieval-augmented generation (RAG) pipelines using **OpenAI**, **LangChain**, and **Hugging Face**
 - Explored applications of LLMs in education and expert systems  
 🚀 **Key Projects**:
-  - 🔗 [LLM-powered Chatbot Demo](https://github.com/yourusername/project1)
-  - 🔗 [RAG Pipeline for QA System](https://github.com/yourusername/project2)
+  - 🔗 [siu-admission-chatbot]((https://github.com/VinhAlth/siu-admission-chatbot)(https://github.com/yourusername/project3) 
+  - 🔗 [Question-Aswering-System-ComputerScience](https://github.com/VinhAlth/Question-Aswering-System-ComputerScience)
   - 🔗 [CLIP + LLM Retrieval Assistant](https://github.com/yourusername/project3)
 
 ---
