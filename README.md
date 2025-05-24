@@ -33,8 +33,8 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 - Explored applications of LLMs in education and expert systems  
 🚀 **Key Projects**:
   - 🔗 [siu-admission-chatbot](https://github.com/VinhAlth/siu-admission-chatbot)  
+  - 🔗 [chatbot-mental-checkin](https://github.com/VinhAlth/chatbot-mental-checkin)  
   - 🔗 [Question-Aswering-System-ComputerScience](https://github.com/VinhAlth/Question-Aswering-System-ComputerScience)  
-  - 🔗 [CLIP + LLM Retrieval Assistant](https://github.com/yourusername/project3)  
 
 ---
 
