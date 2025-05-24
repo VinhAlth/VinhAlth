@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nguyễn Quốc Vinh</h1>
+f<h1 align="center">Hi there 👋, I'm Nguyễn Quốc Vinh</h1>
 
 <p align="center">
   🎓 Final-year Computer Science student at <strong>The Saigon International University (SIU)</strong><br>
@@ -18,7 +18,7 @@ Always eager to learn and contribute to meaningful AI applications.
 ## 🔬 Experience & Projects
 
 ### 💼 AI Research Intern @ SIU AILAB (Jun 2024 – Sep 2024)
-• Researched and applied LLMs; designed retrieval pipelines with RAG.
+• Researched and applied LLMs; designed retrieval pipelines with RAG.  
 • Improved chatbot performance via feedback and experimental evaluation.  
 
 ### 🧩 Text-Based Scene Retrieval System for AIC2024
