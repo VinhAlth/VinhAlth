@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 I'm a passionate AI enthusiast with a solid background in **Artificial Intelligence, Machine Learning**, and **Deep Learning**.  
-My interests include **NLP**, **Computer Vision**, **LLM**, **information retrieval**, and **generative AI**.
+My interests include **NLP**, **Computer Vision**, **LLM**, **information retrieval**, and **generative AI**.  
 Always eager to learn and contribute to meaningful AI applications.
 
 ---
