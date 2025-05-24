@@ -78,7 +78,3 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
 - 📧 Email: [vinh025na@gmail.com](mailto:vinh025na@gmail.com)
 - 🌐 GitHub: [VinhAlth](https://github.com/VinhAlth)
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nguyen-quoc-vinh-nqv/) <!-- Replace with actual link -->
-
----
-
-> I'm open to internship opportunities and collaborations in AI/ML — let's connect and build something impactful together!
