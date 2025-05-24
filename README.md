@@ -22,9 +22,9 @@ Always eager to learn and contribute to meaningful AI applications.
 • Improved chatbot performance via feedback and experimental evaluation.  
 
 ### 🧩 Text-Based Scene Retrieval System for AIC2024
-- Developed a large-scale image retrieval system using **CLIP**, **Milvus**, and **semantic search**
-- Finalist in the **AI Challenge 2024** competition
-- 📄 Read the full paper: [“Textual Know-Item Search in AIC2024”](https://aic2024.vn/assets/docs/finalists/your_paper_link.pdf) <!-- Replace with actual link -->
+Built a scalable, interactive video retrieval system for a 300-hour news dataset. Utilized SIGLIP, DFN5B, and Qdrant with optimized Shot Boundary Detection and temporal algorithms, achieving 94% accuracy. Deployed a WSGI server for fast retrieval (50ms vector search, 800ms UI delivery) and a user-friendly UI with reranking for enhanced interactivity. Ranked Top 10 in AI Challenge HCMC 2024, with query responses under 15 seconds.  
+
+- 📄 Read the paper: [“An Optimized And Interactive Video Event Retrieval System”](https://link.springer.com/chapter/10.1007/978-981-96-4291-5_9) <!-- Replace with actual link -->
 
 ### 🤖 Research on LLM-based AI Assistants
 - Built and evaluated retrieval-augmented generation (RAG) pipelines using **OpenAI**, **LangChain**, and **Hugging Face**
