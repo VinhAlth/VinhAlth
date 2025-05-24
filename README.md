@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-I'm a passionate AI enthusiast with a strong foundation in **Artificial Intelligence, Machine Learning**, and **Deep Learning**.  
-I have hands-on experience in **Large Language Models (LLMs)**, from research to real-world application.  
+I'm a passionate AI enthusiast with a solid background in **Artificial Intelligence, Machine Learning**, and **Deep Learning**.  
+My interests include **NLP**, **Computer Vision**, **LLM**, **information retrieval**, and **generative AI**
 Driven by curiosity and a desire to build meaningful systems, I enjoy working on projects that serve social needs and enhance user experiences.  
-I am constantly learning and looking to contribute to impactful AI projects, particularly in the domains of **LLM, NLP, CV**, **information retrieval**, and **generative AI**.
+Always eager to learn and contribute to meaningful AI applications.
 
 ---
 
