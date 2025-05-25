@@ -21,7 +21,7 @@ Always eager to learn and contribute to meaningful AI applications.
 • Researched and applied LLMs; designed retrieval pipelines with RAG.  
 • Improved chatbot performance via feedback and experimental evaluation.  
 
-### Text-Based Scene Retrieval System for AIC2024
+### Scene Retrieval System for AIC2024
 Built a scalable, interactive video retrieval system for a 300-hour news dataset. Utilized SIGLIP, DFN5B, and Qdrant with optimized Shot Boundary Detection and temporal algorithms, achieving 94% accuracy. Deployed a WSGI server for fast retrieval (50ms vector search, 800ms UI delivery) and a user-friendly UI with reranking for enhanced interactivity. Ranked Top 10 in AI Challenge HCMC 2024, with query responses under 15 seconds.  
 
 - Code: [Pumpkin-aic2024](https://github.com/VinhAlth/Pumpkin_AIC_2024)  
