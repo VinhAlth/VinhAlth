@@ -56,15 +56,6 @@ Built a scalable, interactive video retrieval system for a 300-hour news dataset
   </a>
 </p>
 
-### 🧪 AI/ML Tools & Libraries
-
-- **Frameworks**: PyTorch, TensorFlow, FastAPI
-- **Libraries**: Hugging Face Transformers, LangChain, Scikit-learn
-- **Databases**: Milvus, FAISS
-- **Concepts**: Semantic Search, RAG, Vector Search, Multi-modal Retrieval
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
