@@ -1,4 +1,4 @@
-f<h1 align="center">Hi there 👋, I'm Nguyễn Quốc Vinh</h1>
+<h1 align="center">Hi there 👋, I'm Nguyễn Quốc Vinh</h1>
 
 <p align="center">
   🎓 Final-year Computer Science student at <strong>The Saigon International University (SIU)</strong><br>
