@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Final-year Computer Science student at <strong>The Saigon International University (SIU)</strong><br>
-  🔍 Actively seeking an <strong>AI Engineer Internship</strong> starting <strong>June 2025</strong>
+  🔍 Actively seeking an <strong>AI Engineer</strong> starting <strong>June 2025</strong>
 </p>
 
 ---
