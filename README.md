@@ -9,9 +9,9 @@
 
 ## 🧠 About Me
 
-I'm a passionate AI enthusiast with a solid background in **Artificial Intelligence, Machine Learning**, and **Deep Learning**.  
-My interests include **NLP**, **Computer Vision**, **LLM**, **information retrieval**, and **generative AI**.  
-Always eager to learn and contribute to meaningful AI applications.
+AI Engineer with hands-on experience building multi-agent systems and LLM-based applications for real-world use cases. Focused on developing production-ready AI solutions, from model integration and RAG pipelines to deployment and monitoring.
+
+Interested in MLOps / LLMOps, system reliability, and scaling AI applications for business environments. Passionate about turning AI ideas into practical, deployable systems that deliver measurable value.
 
 ---
 
