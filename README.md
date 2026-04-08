@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-AI Engineer with hands-on experience building **multi-agent systems** and **LLM-based applications** for real-world use cases. Experienced in developing **production-ready AI systems**, from RAG pipelines and model optimization to deployment and monitoring. Passionate about building practical AI solutions that automate workflows, enhance productivity, and deliver measurable business value.
+AI Engineer with hands-on experience building **multi-agent systems** and **LLM-based applications** for real-world use cases. Experienced in developing **production-ready AI systems**, from RAG pipelines and model optimization to deployment and monitoring. Interested in **MLOps / LLMOps**, system reliability, and scaling AI applications for enterprise environments. Passionate about building practical AI systems that deliver measurable business value.
 
 ### 🎯 Interests
 
